@@ -130,7 +130,7 @@ function comprobarEmpate(array $t): bool
     return true;
 }
 
-
+//ESTO ES UN GRAN CAMBIO PARA LA HUMANIDAD
 
 
 
